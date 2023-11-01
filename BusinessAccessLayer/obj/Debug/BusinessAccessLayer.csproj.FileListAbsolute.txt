@@ -1,0 +1,11 @@
+C:\Users\MANSAT\source\repos\TMsystem\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\Users\MANSAT\source\repos\TMsystem\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\MANSAT\source\repos\TMsystem\BusinessAccessLayer\bin\Debug\ClassModel.dll
+C:\Users\MANSAT\source\repos\TMsystem\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\MANSAT\source\repos\TMsystem\BusinessAccessLayer\bin\Debug\ClassModel.pdb
+C:\Users\MANSAT\source\repos\TMsystem\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\MANSAT\source\repos\TMsystem\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\MANSAT\source\repos\TMsystem\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MANSAT\source\repos\TMsystem\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CopyComplete
+C:\Users\MANSAT\source\repos\TMsystem\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\Users\MANSAT\source\repos\TMsystem\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb

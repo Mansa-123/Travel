@@ -1,0 +1,13 @@
+C:\Users\MANSAT\source\repos\TMsystem\ClassLibrary_MainMenu\bin\Debug\ClassLibrary_MainMenu.dll
+C:\Users\MANSAT\source\repos\TMsystem\ClassLibrary_MainMenu\bin\Debug\ClassLibrary_MainMenu.pdb
+C:\Users\MANSAT\source\repos\TMsystem\ClassLibrary_MainMenu\bin\Debug\BusinessAccessLayer.dll
+C:\Users\MANSAT\source\repos\TMsystem\ClassLibrary_MainMenu\bin\Debug\ClassModel.dll
+C:\Users\MANSAT\source\repos\TMsystem\ClassLibrary_MainMenu\bin\Debug\DataAccessLayer.dll
+C:\Users\MANSAT\source\repos\TMsystem\ClassLibrary_MainMenu\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\MANSAT\source\repos\TMsystem\ClassLibrary_MainMenu\bin\Debug\ClassModel.pdb
+C:\Users\MANSAT\source\repos\TMsystem\ClassLibrary_MainMenu\bin\Debug\DataAccessLayer.pdb
+C:\Users\MANSAT\source\repos\TMsystem\ClassLibrary_MainMenu\obj\Debug\ClassLibrary_MainMenu.csproj.AssemblyReference.cache
+C:\Users\MANSAT\source\repos\TMsystem\ClassLibrary_MainMenu\obj\Debug\ClassLibrary_MainMenu.csproj.CoreCompileInputs.cache
+C:\Users\MANSAT\source\repos\TMsystem\ClassLibrary_MainMenu\obj\Debug\ClassLibrary_MainMenu.csproj.CopyComplete
+C:\Users\MANSAT\source\repos\TMsystem\ClassLibrary_MainMenu\obj\Debug\ClassLibrary_MainMenu.dll
+C:\Users\MANSAT\source\repos\TMsystem\ClassLibrary_MainMenu\obj\Debug\ClassLibrary_MainMenu.pdb

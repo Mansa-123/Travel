@@ -1,0 +1,6 @@
+C:\Users\MANSAT\source\repos\TMsystem\ClassModel\bin\Debug\ClassModel.dll
+C:\Users\MANSAT\source\repos\TMsystem\ClassModel\bin\Debug\ClassModel.pdb
+C:\Users\MANSAT\source\repos\TMsystem\ClassModel\obj\Debug\ClassModel.csproj.AssemblyReference.cache
+C:\Users\MANSAT\source\repos\TMsystem\ClassModel\obj\Debug\ClassModel.csproj.CoreCompileInputs.cache
+C:\Users\MANSAT\source\repos\TMsystem\ClassModel\obj\Debug\ClassModel.dll
+C:\Users\MANSAT\source\repos\TMsystem\ClassModel\obj\Debug\ClassModel.pdb
